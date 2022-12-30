@@ -1,0 +1,12 @@
+6k vertices is ok, maybe more needed around mouth
+
+smaller branches
+bigger tree
+
+collision 
+
+branches react to wind 
+
+other textures
+
+more spirarly and puffy? 
